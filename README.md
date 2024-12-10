@@ -1,6 +1,6 @@
 # Velkolepá animace
 
-### Vytvořte nádhernou animaci
+### Vytvořte nádhernou animaci.
 
 ### Animace by měla obsahovat:
 - minimálně 2 typy transform
