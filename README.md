@@ -3,10 +3,10 @@
 ### Vytvořte nádhernou animaci
 
 ### Animace by měla obsahovat:
-- alespoň 2 typy transform
-- alespoň 1 transition
-- alespoň 2 animation
-- alespoň 1 interakci (Javascript)
+- minimálně 2 typy transform
+- minimálně 1 transition
+- minimálně 2 animation
+- minimálně 1 interakci (Javascript)
 
 Hodnocena bude také estetická stránka
 
