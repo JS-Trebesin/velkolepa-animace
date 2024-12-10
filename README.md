@@ -17,3 +17,4 @@ Hodnocena bude také estetická stránka
 - vlastní portfolio
 - něco užitečného (navigaci, tlačítko, karty, menu, logo)
 
+Pokud použijete AI, napište použitý prompt (ideálně i s odkazem na konverzaci s AI) do souboru prompty.txt, který naleznete v tomto repozitáři (popřípadě nahrajte vlastní)
